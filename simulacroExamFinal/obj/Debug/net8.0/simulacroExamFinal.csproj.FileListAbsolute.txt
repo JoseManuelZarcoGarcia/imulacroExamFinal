@@ -1,0 +1,14 @@
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\bin\Debug\net8.0\simulacroExamFinal.exe
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\bin\Debug\net8.0\simulacroExamFinal.deps.json
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\bin\Debug\net8.0\simulacroExamFinal.runtimeconfig.json
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\bin\Debug\net8.0\simulacroExamFinal.dll
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\bin\Debug\net8.0\simulacroExamFinal.pdb
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.AssemblyInfoInputs.cache
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.AssemblyInfo.cs
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.csproj.CoreCompileInputs.cache
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.dll
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\refint\simulacroExamFinal.dll
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.pdb
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.genruntimeconfig.cache
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\ref\simulacroExamFinal.dll
