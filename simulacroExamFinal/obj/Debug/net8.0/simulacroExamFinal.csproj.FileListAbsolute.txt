@@ -12,3 +12,4 @@ C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net
 C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.pdb
 C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.genruntimeconfig.cache
 C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\ref\simulacroExamFinal.dll
+C:\Users\Yo MSI\source\repos\simulacroExamFinal\simulacroExamFinal\obj\Debug\net8.0\simulacroExamFinal.sourcelink.json

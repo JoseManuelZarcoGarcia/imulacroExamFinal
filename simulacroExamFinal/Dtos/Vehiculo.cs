@@ -40,8 +40,12 @@ namespace simulacroExamFinal.Dtos
 
         public Vehiculo() { }
 
-        /*override
+        override
         public string ToString()
-        { }*/
+        { 
+            string stringFichero = this.IdVehiculo + ";" + this.Matricula + ";" + this.TipoVehiculo + ";" + this.ZonaDestino + ";" + this.MercanciaSiNo + ";" + this.FechaLlegadaAControl;
+        
+            return stringFichero;
+        }
     }
 }

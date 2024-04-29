@@ -12,5 +12,7 @@ namespace simulacroExamFinal.Servicios
 
         public List<Vehiculo> crearVehiculo(List<Vehiculo> listaVehiculo);
 
+        public void meterEnFichero(List<Vehiculo> listaVehiculo);
+
     }
 }

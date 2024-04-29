@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simulacroExamFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e640a2b3e788258f4ba2387f6e1b6431a2424752")]
 [assembly: System.Reflection.AssemblyProductAttribute("simulacroExamFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simulacroExamFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

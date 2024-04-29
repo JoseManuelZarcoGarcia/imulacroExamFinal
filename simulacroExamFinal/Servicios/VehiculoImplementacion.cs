@@ -33,13 +33,37 @@ namespace simulacroExamFinal.Servicios
             string patata = "no";
             patata = Console.ReadLine();
             if(patata == "si") 
-                { nuevoVehiculo.MercanciaSiNo=true; }
+                { nuevoVehiculo.MercanciaSiNo = true; }
             else
                 { nuevoVehiculo.MercanciaSiNo = false; }
 
             listaVehiculo.Add(nuevoVehiculo);
             return listaVehiculo;
             
+        }
+
+        public void meterEnFichero(List<Vehiculo> listaVehiculo)
+        {
+            try
+            {
+                //Program.rutaFile = "C:\\Users\\Yo MSI\\Desktop\\vehiculos2.txt";
+                StreamWriter sw = new StreamWriter(Controladores.Program.rutaFile, true);
+                foreach(Vehiculo pata  in listaVehiculo)
+                {
+                    string contenido = pata.ToString();
+                    sw.WriteLine(contenido);
+                    
+                }
+                sw.Close();
+            }
+            catch (IOException ioex)
+            {
+                Console.WriteLine(ioex.Message);
+                StreamWriter swLog = new StreamWriter(Controladores.Program.rutaFileLog, true);
+
+                //swLog.Close();
+                throw;
+            }
         }
 
         private long crearId(List<Vehiculo> listaVehiculo)
